@@ -4,5 +4,8 @@ Type: PoW /Masternode.
 Masternode Reward: 10,000.
 Block Size: 3 MB, Max Supply: 100,000,000
 Premined: 10% (10,000,000 Premine Total).
-Block Reward : 20 coin/ block, 1,500 block/ day. 
+Block Reward : 20 coin/ block (POW : 1 Coin/block. Masternode : 19 coins/block) , 1,500 block/ day.
 
+addnode = 207.246.69.188
+addnode = 45.63.50.40
+addnode = 45.77.169.24
